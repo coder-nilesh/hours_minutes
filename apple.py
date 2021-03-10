@@ -6,9 +6,9 @@
 #  the program reads the numbers N and K.
 #  it should print two answer for the querstion above."""
 #
-# number_of_student =int(input("enter the number  of student:"))
-# number_of_apple =int(input("enter the number of apple:"))
-# apple_distributed = (number_of_apple//number_of_student)
-# remaining_apple = number_of_apple % number_of_student
-# print ("each single will get this much",apple_distributed)
-# print ("this much apple will reamin in the basket",remaining_apple)
+number_of_student =int(input("enter the number  of student:"))
+number_of_apple =int(input("enter the number of apple:"))
+apple_distributed = (number_of_apple//number_of_student)
+remaining_apple = number_of_apple % number_of_student
+print ("each single will get this much",apple_distributed)
+print ("this much apple will reamin in the basket",remaining_apple)

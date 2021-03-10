@@ -8,10 +8,10 @@ the second group has 21 student,so they can get """
 first_class = int(input("Enter the number of desk in first class"))
 second_class = int(input("Enter the number of desk in second class"))
 third_class = int(input("Enter the number of desk in third class"))
-total_student = first_class+second_student+third_class
+total_student = first_class+second_class+third_class
 no_of_desk = total_student//2
 remaining = total_student%2
-least_number_of_desk = number_of_desk+remaining
+least_number_of_desk = no_of_desk+remaining
 print(f"the least no of desk required is {least_number_of_desk}")
 
 
