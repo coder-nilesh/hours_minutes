@@ -4,7 +4,7 @@ num_two = float(input("Enter the second num:"))
 num_three = float(input("Enter the third num:"))
 num_fourth = float(input("Enter the fourth num:"))
 sum = num_one+num_two+num_three+num_fourth
-print ("The sum of three numbers is",sum)
+print (f"The sum of three numbers is{sum}")
 
 
 
